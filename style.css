@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Rubik:ital,wght@0,500;1,600&display=swap');
+
+* {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Caudex', serif;
+}
+
+body {
+    background-color: #101728;
+}
+
+.divPai {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sec1 {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30vh;
+}
+
+.img1 {
+    border-radius: 300px;
+    box-shadow: 10px 50px 1000px #52d87a;
+}
+
+.sectext {
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #52d87a;
+    font-size: 80px;
+}
+
+.sec3 {
+    margin-left: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 60vh;
+}
+
+.img2 {
+    border-radius: 300px;
+    box-shadow: 10px 10px 1000px #52d87a;
+}
+
+.sectext1 {
+    text-align:center;
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+
+}
+
+.psec3 {
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #52d87a;
+    font-size: 35px;
+}
+
+
+.cg {
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #52d87a;
+}
+
+.menu {
+    margin-top: 50px;
+    margin-right: 75px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 1px 1px 15px #00d459;
+    background-color: #52d87a;
+}
+
+.textlogo {
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+}
+
+.logo1 {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.logo {
+    margin-left: 25px;
+}
+
+.menu {
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+
+.text1 {
+    margin-top: 50vh;
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #52d87a;
+    font-size: 70px;
+    text-align: center;
+}
+
+.text2 {
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+}
+
+.sec4 {
+    align-items:center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60vh;
+}
+
+.psec4{
+    text-align: start;
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #52d87a;
+    font-size: 70px;
+}
+
+.sectext4 {
+    text-align: start;
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+
+}
+
+.img3 {
+    border-radius: 300px;
+    box-shadow: 10px 10px 1000px #52d87a;
+}
+
+.secfinal {
+    margin-top: 350px;
+    text-align: center;
+    justify-content: center;
+   
+}
+
+.ulsecfinal {
+    align-items:center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-flex {
+    margin-top: 8vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.secfinalh6{
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.secfinalh{
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+    margin-top: 5vh;
+}
+
+.nomes{
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+footer {
+    margin-top: 350px;
+    background-color: #101728;
+}
+
+.fooPai {
+    display: flex;
+    display: ;  
+}
+
+.textfoo {
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+}
+
+.pfoo {
+    color: #52d87a;
+}
+
+.cami {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+    
+.cami:hover {
+    border: 10px solid #781f40;
+    border-radius: 50%;
+    -webkit-filter: drop-shadow(15px 7px 1px rgba(0,0,0,.5));
+    filter: drop-shadow(15px 7px 1px rgba(0,0,0,.5));
+    -webkit-transform: rotateZ(-360deg) scale(1.5);
+    transform: rotateZ(-360deg) scale(1.5);
+}
+
+.textdireitos {
+    font-family: 'Times New Roman', Times, serif;
+    color: #767980;
+    font-size: 25px;
+    margin-bottom: 150px;
+}
